@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @vaesai
-- 👀 I’m interested in ...
+- 👋 Hi, I’m vaesai
 - 🌱 I’m currently learning Open cv
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : Thanyaret.nm@gamil.com
 
 <!---
